@@ -20,6 +20,6 @@ The Apple vs Samsung Comparison Module provides a comprehensive analysis of the 
 - Pandas, Matplotlib (for data manipulation and visualization)
 - Tableau (for dashboard creation and visualization)
 ## Tableau Dashboard:
-To access the interactive dashboard for visualizing the comparison between Apple and Samsung, please visit [Tableau Public]([https://public.tableau.com](https://public.tableau.com/app/profile/shreya.kumari7691/viz/AppleVsSamsung_17107442516920/Dashboard1)
+To access the interactive dashboard for visualizing the comparison between Apple and Samsung, please visit [Tableau Public](https://public.tableau.com/app/profile/shreya.kumari7691/viz/AppleVsSamsung_17107442516920/Dashboard1)
 ## Compatibility:
 This module is compatible with Python 3.x and Tableau Desktop/Online.
